@@ -3,14 +3,18 @@ owner: devbungfro # Your GitHub organization or username, where this repository 
 repo: dismicstatus # The name of this repository
 
 sites:
-  - name: Dismic Dashboard
+  - name: Dismic DASHBOARD
     url: https://dashboard.dismic.org
-  - name: Wikipedia
-    url: https://en.wikdia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Dismic API
+    url: https://api.dismic.org
+  - name: Dismic CDN
+    url: https://cdn.dismic.org
+  - name: Dismic DOCS
+    url: https://docs.dismic.org
+  - name: Dismic BOT
+    url: https://dashboard.dismic.org/botping
+  - name: Dismic STATUS PAGE
+    url: https://status.dismic.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
