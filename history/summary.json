@@ -26,19 +26,19 @@
     "url": "https://api.dismic.org",
     "icon": "https://favicons.githubusercontent.com/api.dismic.org",
     "slug": "dismic-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 409,
-    "timeWeek": 536,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 596,
+    "timeDay": 424,
+    "timeWeek": 529,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2021-11-17": 0
+      "2021-11-17": 10
     }
   },
   {
