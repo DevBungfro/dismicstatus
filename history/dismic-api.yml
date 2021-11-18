@@ -1,7 +1,7 @@
 url: https://api.dismic.org
-status: down
-code: 502
-responseTime: 438
-lastUpdated: 2021-11-17T23:21:38.312Z
+status: up
+code: 200
+responseTime: 1332
+lastUpdated: 2021-11-18T07:20:33.282Z
 startTime: Tue Nov 09 2021 06:09:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
