@@ -6,7 +6,7 @@ sites:
   - name: Dismic DASHBOARD
     url: https://www.dismic.org
   - name: Dismic API
-    url: https://api.dismic.org
+    url: https://apiremake.dismic.org
   - name: Dismic CDN
     url: https://cdn.dismic.org
   - name: Dismic DOCS
