@@ -1,7 +1,7 @@
 url: https://www.dismic.org/botping
-status: down
-code: 502
-responseTime: 3019
-lastUpdated: 2022-02-12T14:51:19.292Z
+status: up
+code: 200
+responseTime: 40
+lastUpdated: 2022-02-12T14:56:44.695Z
 startTime: Tue Nov 09 2021 06:09:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
