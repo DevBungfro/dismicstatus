@@ -16,7 +16,7 @@
     "timeMonth": 1478,
     "timeYear": 2729,
     "dailyMinutesDown": {
-      "2022-07-15": 56,
+      "2022-07-15": 88,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
@@ -143,9 +143,9 @@
     "url": "https://apiremake.dismic.org",
     "icon": "https://favicons.githubusercontent.com/apiremake.dismic.org",
     "slug": "dismic-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.02%",
@@ -155,6 +155,7 @@
     "timeMonth": 1697,
     "timeYear": 2648,
     "dailyMinutesDown": {
+      "2022-07-15": 0,
       "2022-07-09": 19,
       "2022-07-05": 21,
       "2022-07-01": 24,
@@ -199,7 +200,7 @@
       "2022-03-22": 75,
       "2022-03-20": 97,
       "2022-03-19": 53,
-      "2022-03-18": 34
+      "2022-03-18": 19
     }
   },
   {
@@ -275,7 +276,7 @@
     "timeMonth": 812,
     "timeYear": 894,
     "dailyMinutesDown": {
-      "2022-07-15": 56,
+      "2022-07-15": 88,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
