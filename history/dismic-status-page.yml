@@ -1,7 +1,7 @@
 url: https://status.dismic.org
-status: up
-code: 200
-responseTime: 1852
-lastUpdated: 2022-07-17T21:00:01.730Z
+status: down
+code: 504
+responseTime: 10628
+lastUpdated: 2022-07-17T21:11:02.826Z
 startTime: Tue Nov 09 2021 06:10:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
